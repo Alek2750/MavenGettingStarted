@@ -1,0 +1,2 @@
+# MavenGettingStarted
+CI test
